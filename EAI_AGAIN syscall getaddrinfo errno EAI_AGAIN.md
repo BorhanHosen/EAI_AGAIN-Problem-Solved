@@ -9,3 +9,4 @@ npm ERR! A complete log of this run can be found in: C:\Users\borhan06344\AppDat
 ```
 npm config set proxy http://10.32.20.40:8080 
 ```
+![Screenshot (1)](https://github.com/BorhanHosen/EAI_AGAIN-Problem-Solved/assets/138838370/826c43d5-9ae9-4b99-a17a-d332f5c259fb)
